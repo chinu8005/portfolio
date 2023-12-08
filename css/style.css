@@ -871,6 +871,7 @@ input:checked + label span:last-child {
   width: 47px;
   height: 5px;
   background: #6f6f6f;
+  text-align: justify;
 }
 
 .about-me-text p {
