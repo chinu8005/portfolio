@@ -1,3 +1,3 @@
 # Portfolio
 
-- **Chinmay Patil:** [Portfolio](https://chinu8005.github.io/portfolio) |
+- **Chinmay Patil:** [Portfolio 🧡](https://chinu8005.github.io/portfolio) |
